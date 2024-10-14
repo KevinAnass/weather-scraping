@@ -1,0 +1,265 @@
+{
+    "Country": "Morocco",
+    "Cities": [
+        {
+            "Index": 1,
+            "CityName": "Agadir",
+            "CityValue": 21.1
+        },
+        {
+            "Index": 2,
+            "CityName": "Azemmour",
+            "CityValue": 20.0
+        },
+        {
+            "Index": 3,
+            "CityName": "Azrou",
+            "CityValue": 11.1
+        },
+        {
+            "Index": 4,
+            "CityName": "Beni Mellal",
+            "CityValue": 17.2
+        },
+        {
+            "Index": 5,
+            "CityName": "Berkane",
+            "CityValue": 23.9
+        },
+        {
+            "Index": 6,
+            "CityName": "Berrechid",
+            "CityValue": 18.9
+        },
+        {
+            "Index": 7,
+            "CityName": "Casablanca",
+            "CityValue": 20.0
+        },
+        {
+            "Index": 8,
+            "CityName": "El Jadida",
+            "CityValue": 21.1
+        },
+        {
+            "Index": 9,
+            "CityName": "Essaouira",
+            "CityValue": 20.0
+        },
+        {
+            "Index": 10,
+            "CityName": "Fes",
+            "CityValue": 16.1
+        },
+        {
+            "Index": 11,
+            "CityName": "Fkih Ben Salah",
+            "CityValue": 17.8
+        },
+        {
+            "Index": 12,
+            "CityName": "Guelmim",
+            "CityValue": 20.0
+        },
+        {
+            "Index": 13,
+            "CityName": "Guercif",
+            "CityValue": 18.9
+        },
+        {
+            "Index": 14,
+            "CityName": "Jerada",
+            "CityValue": 22.2
+        },
+        {
+            "Index": 15,
+            "CityName": "Kasba Tadla",
+            "CityValue": 17.2
+        },
+        {
+            "Index": 16,
+            "CityName": "Kenitra",
+            "CityValue": 17.2
+        },
+        {
+            "Index": 17,
+            "CityName": "Khemisset",
+            "CityValue": 17.2
+        },
+        {
+            "Index": 18,
+            "CityName": "Khenifra",
+            "CityValue": 15.0
+        },
+        {
+            "Index": 19,
+            "CityName": "Khouribga",
+            "CityValue": 16.1
+        },
+        {
+            "Index": 20,
+            "CityName": "Ksar el Kebir",
+            "CityValue": 18.9
+        },
+        {
+            "Index": 21,
+            "CityName": "Larache",
+            "CityValue": 17.8
+        },
+        {
+            "Index": 22,
+            "CityName": "Marrakech",
+            "CityValue": 18.9
+        },
+        {
+            "Index": 23,
+            "CityName": "Martil",
+            "CityValue": 21.1
+        },
+        {
+            "Index": 24,
+            "CityName": "Meknes",
+            "CityValue": 16.1
+        },
+        {
+            "Index": 25,
+            "CityName": "Midelt",
+            "CityValue": 12.2
+        },
+        {
+            "Index": 26,
+            "CityName": "mohammed  boulaich el habate ksar sghir",
+            "CityValue": 20.0
+        },
+        {
+            "Index": 27,
+            "CityName": "Nador",
+            "CityValue": 20.0
+        },
+        {
+            "Index": 28,
+            "CityName": "Ouarzazate",
+            "CityValue": 17.2
+        },
+        {
+            "Index": 29,
+            "CityName": "Ouazzane",
+            "CityValue": 17.8
+        },
+        {
+            "Index": 30,
+            "CityName": "Oued Zem",
+            "CityValue": 15.0
+        },
+        {
+            "Index": 31,
+            "CityName": "Oujda",
+            "CityValue": 22.2
+        },
+        {
+            "Index": 32,
+            "CityName": "Oulad Teïma",
+            "CityValue": 21.1
+        },
+        {
+            "Index": 33,
+            "CityName": "Rabat",
+            "CityValue": 17.8
+        },
+        {
+            "Index": 34,
+            "CityName": "Safi",
+            "CityValue": 20.0
+        },
+        {
+            "Index": 35,
+            "CityName": "Sefrou",
+            "CityValue": 16.1
+        },
+        {
+            "Index": 36,
+            "CityName": "Settat",
+            "CityValue": 17.8
+        },
+        {
+            "Index": 37,
+            "CityName": "Sidi Bennour",
+            "CityValue": 18.9
+        },
+        {
+            "Index": 38,
+            "CityName": "Sidi Kacem",
+            "CityValue": 17.8
+        },
+        {
+            "Index": 39,
+            "CityName": "Sidi Slimane",
+            "CityValue": 17.8
+        },
+        {
+            "Index": 40,
+            "CityName": "Skhirat",
+            "CityValue": 17.2
+        },
+        {
+            "Index": 41,
+            "CityName": "Souq Larb’a al Gharb",
+            "CityValue": 18.9
+        },
+        {
+            "Index": 42,
+            "CityName": "Tan-Tan",
+            "CityValue": 20.0
+        },
+        {
+            "Index": 43,
+            "CityName": "Tangier",
+            "CityValue": 20.0
+        },
+        {
+            "Index": 44,
+            "CityName": "Taounate",
+            "CityValue": 16.1
+        },
+        {
+            "Index": 45,
+            "CityName": "Taourirt",
+            "CityValue": 22.2
+        },
+        {
+            "Index": 46,
+            "CityName": "Taroudant",
+            "CityValue": 18.9
+        },
+        {
+            "Index": 47,
+            "CityName": "Taza",
+            "CityValue": 16.1
+        },
+        {
+            "Index": 48,
+            "CityName": "Tétouan",
+            "CityValue": 20.0
+        },
+        {
+            "Index": 49,
+            "CityName": "Tiflet",
+            "CityValue": 17.2
+        },
+        {
+            "Index": 50,
+            "CityName": "Tirhanimîne",
+            "CityValue": 20.0
+        },
+        {
+            "Index": 51,
+            "CityName": "Tiznit",
+            "CityValue": 18.9
+        },
+        {
+            "Index": 52,
+            "CityName": "Youssoufia",
+            "CityValue": 18.9
+        }
+    ]
+}
